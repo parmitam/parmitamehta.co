@@ -1,0 +1,19 @@
+--- yaml
+layout: 'default'
+title: 'blog'
+---
+
+<div class="container">
+  <div class="sixteen columns posts">
+    <h1 id="blog">Blog Posts</h2>
+    <ul>
+	<% for document in @getCollection('posts').toJSON(): %>
+		<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'	if @document.url is document.url %>">
+			<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
+		</li>
+	<% end %>
+   </ul>
+  </div>
+</div>
+
+

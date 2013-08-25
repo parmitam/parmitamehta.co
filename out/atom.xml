@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Benjamin Lupton</title>
+	<link href="http://balupton.com/atom.xml" rel="self"/>
+	<link href="http://balupton.com"/>
+	<updated>2013-08-25T16:17:41.695Z</updated>
+	<id>http://balupton.com</id>
+	<author>
+		<name>Benjamin Lupton</name>
+		<email>b@lupton.cc</email>
+	</author>
+
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			<entry>
+				<title>blog post #1!</title>
+				<link href="http://balupton.com/posts/blogpost1"/>
+				<updated>2012-01-25T08:00:00.000Z</updated>
+				<id>http://balupton.com/posts/blogpost1</id>
+				<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lange=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+	&lt;title&gt;blog post #1! | Parmita Mehta&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;parmita mehta &quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.49.1&quot;/&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/blank.gif&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot;, href=&quot;http://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,600&quot;,type='text/css'&gt;
+  	&lt;link rel=&quot;shortcut icon&quot;, href=&quot;/img/favicon.ico&quot;&gt;
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/highlightjs.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/layout.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/site.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/skeleton.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+&lt;div id=&quot;header&quot;&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;div id=&quot;logo&quot; class=&quot;one-third column alpha&quot;&gt;
+    &lt;a href=&quot;http://parmitamehta.co&quot;&gt;Parmita&lt;span class=&quot;semi&quot;&gt;Mehta&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;div class=&quot;two-thirds column omega&quot;&gt;
+    &lt;nav class=&quot;main_nav&quot;&gt;
+      &lt;div class=&quot;menuitem alpha&quot;&gt;
+      &lt;div class=&quot;menuitem&quot;&gt;&lt;a href=&quot;/blog.html&quot;&gt;Blog&lt;/a&gt;&lt;/div&gt;
+      &lt;div class=&quot;seperator&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;menuitem omega&quot;&gt;&lt;a href=&quot;/about.html&quot;&gt;About&lt;/a&gt;&lt;/div&gt;
+     &lt;/nav&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+	
+				
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;p&gt;blogpost 1!&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;footer&gt;
+	
+&lt;/footer&gt;
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;p&gt;&amp;copy; Parmita Mehta, 2013&lt;/p&gt;
+			&lt;p style=&quot;float:right;&quot;&gt;
+				This website was last updated at 2013-08-25T16:17:41.695Z
+			&lt;/p&gt;
+		&lt;/footer&gt;
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.isotope.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modernizr.custom.11550.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/matchmedia.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/picturefill.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery-tapir.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+</content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title>blog post #2!</title>
+				<link href="http://balupton.com/posts/blogpost2"/>
+				<updated>2013-01-25T08:00:00.000Z</updated>
+				<id>http://balupton.com/posts/blogpost2</id>
+				<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lange=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+	&lt;title&gt;blog post #2! | Parmita Mehta&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;parmita mehta &quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.49.1&quot;/&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/blank.gif&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot;, href=&quot;http://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,600&quot;,type='text/css'&gt;
+  	&lt;link rel=&quot;shortcut icon&quot;, href=&quot;/img/favicon.ico&quot;&gt;
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/highlightjs.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/layout.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/site.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/skeleton.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+&lt;div id=&quot;header&quot;&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;div id=&quot;logo&quot; class=&quot;one-third column alpha&quot;&gt;
+    &lt;a href=&quot;http://parmitamehta.co&quot;&gt;Parmita&lt;span class=&quot;semi&quot;&gt;Mehta&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;div class=&quot;two-thirds column omega&quot;&gt;
+    &lt;nav class=&quot;main_nav&quot;&gt;
+      &lt;div class=&quot;menuitem alpha&quot;&gt;
+      &lt;div class=&quot;menuitem&quot;&gt;&lt;a href=&quot;/blog.html&quot;&gt;Blog&lt;/a&gt;&lt;/div&gt;
+      &lt;div class=&quot;seperator&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;menuitem omega&quot;&gt;&lt;a href=&quot;/about.html&quot;&gt;About&lt;/a&gt;&lt;/div&gt;
+     &lt;/nav&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+	
+				
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;p&gt;blogpost 2&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;footer&gt;
+	
+&lt;/footer&gt;
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;p&gt;&amp;copy; Parmita Mehta, 2013&lt;/p&gt;
+			&lt;p style=&quot;float:right;&quot;&gt;
+				This website was last updated at 2013-08-25T16:17:41.695Z
+			&lt;/p&gt;
+		&lt;/footer&gt;
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.isotope.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modernizr.custom.11550.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/matchmedia.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/picturefill.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery-tapir.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+</content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title>Bonjour</title>
+				<link href="http://balupton.com/posts/bonjour"/>
+				<updated>2013-08-24T18:29:49.000Z</updated>
+				<id>http://balupton.com/posts/bonjour</id>
+				<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lange=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+	&lt;title&gt;Bonjour | Parmita Mehta&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;parmita mehta &quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.49.1&quot;/&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/blank.gif&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot;, href=&quot;http://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,600&quot;,type='text/css'&gt;
+  	&lt;link rel=&quot;shortcut icon&quot;, href=&quot;/img/favicon.ico&quot;&gt;
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/highlightjs.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/layout.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/site.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/skeleton.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+&lt;div id=&quot;header&quot;&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;div id=&quot;logo&quot; class=&quot;one-third column alpha&quot;&gt;
+    &lt;a href=&quot;http://parmitamehta.co&quot;&gt;Parmita&lt;span class=&quot;semi&quot;&gt;Mehta&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;div class=&quot;two-thirds column omega&quot;&gt;
+    &lt;nav class=&quot;main_nav&quot;&gt;
+      &lt;div class=&quot;menuitem alpha&quot;&gt;
+      &lt;div class=&quot;menuitem&quot;&gt;&lt;a href=&quot;/blog.html&quot;&gt;Blog&lt;/a&gt;&lt;/div&gt;
+      &lt;div class=&quot;seperator&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;menuitem omega&quot;&gt;&lt;a href=&quot;/about.html&quot;&gt;About&lt;/a&gt;&lt;/div&gt;
+     &lt;/nav&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+	
+				
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;p&gt;Bonjour &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;footer&gt;
+	
+&lt;/footer&gt;
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;p&gt;&amp;copy; Parmita Mehta, 2013&lt;/p&gt;
+			&lt;p style=&quot;float:right;&quot;&gt;
+				This website was last updated at 2013-08-25T16:17:41.695Z
+			&lt;/p&gt;
+		&lt;/footer&gt;
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.isotope.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modernizr.custom.11550.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/matchmedia.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/picturefill.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery-tapir.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+</content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title>Hello</title>
+				<link href="http://balupton.com/posts/hello"/>
+				<updated>2013-08-24T18:29:49.000Z</updated>
+				<id>http://balupton.com/posts/hello</id>
+				<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lange=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+	&lt;title&gt;Hello | Parmita Mehta&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;parmita mehta &quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.49.1&quot;/&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/blank.gif&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot;, href=&quot;http://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,600&quot;,type='text/css'&gt;
+  	&lt;link rel=&quot;shortcut icon&quot;, href=&quot;/img/favicon.ico&quot;&gt;
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/highlightjs.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/layout.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/site.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/skeleton.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+&lt;div id=&quot;header&quot;&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;div id=&quot;logo&quot; class=&quot;one-third column alpha&quot;&gt;
+    &lt;a href=&quot;http://parmitamehta.co&quot;&gt;Parmita&lt;span class=&quot;semi&quot;&gt;Mehta&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;div class=&quot;two-thirds column omega&quot;&gt;
+    &lt;nav class=&quot;main_nav&quot;&gt;
+      &lt;div class=&quot;menuitem alpha&quot;&gt;
+      &lt;div class=&quot;menuitem&quot;&gt;&lt;a href=&quot;/blog.html&quot;&gt;Blog&lt;/a&gt;&lt;/div&gt;
+      &lt;div class=&quot;seperator&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;menuitem omega&quot;&gt;&lt;a href=&quot;/about.html&quot;&gt;About&lt;/a&gt;&lt;/div&gt;
+     &lt;/nav&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+	
+				
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;p&gt;Hello &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;footer&gt;
+	
+&lt;/footer&gt;
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;p&gt;&amp;copy; Parmita Mehta, 2013&lt;/p&gt;
+			&lt;p style=&quot;float:right;&quot;&gt;
+				This website was last updated at 2013-08-25T16:17:41.695Z
+			&lt;/p&gt;
+		&lt;/footer&gt;
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.isotope.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modernizr.custom.11550.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/matchmedia.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/picturefill.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery-tapir.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+</content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title>Read More</title>
+				<link href="http://balupton.com/posts/readmore"/>
+				<updated>2013-08-24T18:29:49.000Z</updated>
+				<id>http://balupton.com/posts/readmore</id>
+				<content type="html"></content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title>Vampire's Delight</title>
+				<link href="http://balupton.com/posts/samplePhoto"/>
+				<updated>2012-06-21T00:00:00.000Z</updated>
+				<id>http://balupton.com/posts/samplePhoto</id>
+				<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lange=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+	&lt;title&gt;Vampire's Delight | Parmita Mehta&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;parmita mehta &quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.49.1&quot;/&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot;, href=&quot;http://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,600&quot;,type='text/css'&gt;
+  	&lt;link rel=&quot;shortcut icon&quot;, href=&quot;/img/favicon.ico&quot;&gt;
+   	&lt;link rel=&quot;stylesheet&quot;, href=&quot;/css/base.css&quot;,type=&quot;text/css&quot;&gt;
+   	&lt;link rel=&quot;stylesheet&quot;, href=&quot;/css/skeleton.css&quot;,type=&quot;text/css&quot;&gt;
+   	&lt;link rel=&quot;stylesheet&quot;, href=&quot;/css/layout.css&quot;,type=&quot;text/css&quot;&gt;
+   	&lt;link rel=&quot;stylesheet&quot;, href=&quot;/css/site.css&quot;,type=&quot;text/css&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/jquery.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/jquery.isotope.min.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/modernizr.custom.11550.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/matchmedia.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/picturefill.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/jquery-tapir.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/highlightjs.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/layout.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/site.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/skeleton.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+&lt;div id=&quot;header&quot;&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;div id=&quot;logo&quot; class=&quot;one-third column alpha&quot;&gt;
+    &lt;a href=&quot;http://markgroves.us&quot;&gt;Mark&lt;span class=&quot;semi&quot;&gt;Groves&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;div class=&quot;two-thirds column omega&quot;&gt;
+    &lt;nav class=&quot;main_nav&quot;&gt;
+      &lt;div class=&quot;menuitem alpha&quot;&gt;
+       &lt;a href=&quot;/photographs.html&quot;&gt;photographs&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;seperator&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;menuitem&quot;&gt;&lt;a href=&quot;/blog.html&quot;&gt;articles&lt;/a&gt;&lt;/div&gt;
+      &lt;div class=&quot;seperator&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;menuitem omega&quot;&gt;&lt;a href=&quot;/about.html&quot;&gt;about&lt;/a&gt;&lt;/div&gt;
+     &lt;/nav&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+	
+				
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;p&gt;The markets in Florence Italy are amazing, the different foods, and smells are too much to take in.  We did our best to eat our way through Italy, and also packed up a very large box to ship back to the states. We didn&amp;#39;t end up with any garlic, except for this photograph.&lt;/p&gt;
+
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;p&gt;&amp;copy; Company 2012&lt;/p&gt;
+			&lt;p style=&quot;float:right;&quot;&gt;
+				This website was last updated at 2013-08-25T16:17:41.695Z
+			&lt;/p&gt;
+		&lt;/footer&gt;
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.isotope.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modernizr.custom.11550.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/matchmedia.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/picturefill.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery-tapir.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+			</entry>
+		
+	
+		
+			<entry>
+				<title>Twitter is a Corporate API</title>
+				<link href="http://balupton.com/posts/samplelink"/>
+				<updated>2012-07-08T00:00:00.000Z</updated>
+				<id>http://balupton.com/posts/samplelink</id>
+				<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lange=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+	&lt;title&gt;Twitter is a Corporate API | Parmita Mehta&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;parmita mehta &quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.49.1&quot;/&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot;, href=&quot;http://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,600&quot;,type='text/css'&gt;
+  	&lt;link rel=&quot;shortcut icon&quot;, href=&quot;/img/favicon.ico&quot;&gt;
+   	&lt;link rel=&quot;stylesheet&quot;, href=&quot;/css/base.css&quot;,type=&quot;text/css&quot;&gt;
+   	&lt;link rel=&quot;stylesheet&quot;, href=&quot;/css/skeleton.css&quot;,type=&quot;text/css&quot;&gt;
+   	&lt;link rel=&quot;stylesheet&quot;, href=&quot;/css/layout.css&quot;,type=&quot;text/css&quot;&gt;
+   	&lt;link rel=&quot;stylesheet&quot;, href=&quot;/css/site.css&quot;,type=&quot;text/css&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/jquery.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/jquery.isotope.min.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/modernizr.custom.11550.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/matchmedia.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/picturefill.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;/scripts/jquery-tapir.js&quot;&gt;
+   	&lt;script type=&quot;text/javascript&quot;, src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/highlightjs.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/layout.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/site.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/skeleton.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+&lt;div id=&quot;header&quot;&gt;
+  &lt;div class=&quot;container&quot;&gt;
+    &lt;div id=&quot;logo&quot; class=&quot;one-third column alpha&quot;&gt;
+    &lt;a href=&quot;http://markgroves.us&quot;&gt;Mark&lt;span class=&quot;semi&quot;&gt;Groves&lt;/span&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;div class=&quot;two-thirds column omega&quot;&gt;
+    &lt;nav class=&quot;main_nav&quot;&gt;
+      &lt;div class=&quot;menuitem alpha&quot;&gt;
+       &lt;a href=&quot;/photographs.html&quot;&gt;photographs&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;seperator&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;menuitem&quot;&gt;&lt;a href=&quot;/blog.html&quot;&gt;articles&lt;/a&gt;&lt;/div&gt;
+      &lt;div class=&quot;seperator&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;menuitem omega&quot;&gt;&lt;a href=&quot;/about.html&quot;&gt;about&lt;/a&gt;&lt;/div&gt;
+     &lt;/nav&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+	
+				
+
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;p&gt;&lt;a href=&quot;http://scripting.com/stories/2012/07/07/twitterIsACorporateApi.html&quot;&gt;Dave Winer&lt;/a&gt; has some interesting thoughts on the reality of attaching your future to an API like Twitter&amp;#39;s. It has always surprised me the number of applications that were being build completely tied to a companies future that was not yet established. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Twitter had been telling developers, for years, that they should develop all kinds of clients. That was when Twitter was just a website and had no clients of its own.&lt;/p&gt;
+&lt;p&gt;Smart developers will not just conclude that Twitter is unsafe to build on, but also any company that is operating in the Twitter model. If they are running a website, and trying to attract a lot of users, and are going in the direction of advertising, you&amp;#39;d be a fool to think they won&amp;#39;t do the same as Twitter has.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Of course Twitter is not alone here, they just happen to be the a recent big organization that changed their direction regarding APIs. Nothing new, we should not act so surprised.&lt;/p&gt;
+
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;p&gt;&amp;copy; Company 2012&lt;/p&gt;
+			&lt;p style=&quot;float:right;&quot;&gt;
+				This website was last updated at 2013-08-25T16:17:41.695Z
+			&lt;/p&gt;
+		&lt;/footer&gt;
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery.isotope.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modernizr.custom.11550.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/matchmedia.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/picturefill.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/jquery-tapir.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+			</entry>
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+</feed>
