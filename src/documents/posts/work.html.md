@@ -6,7 +6,8 @@ date: 2007-2-23
 ---
 
 
-<p>I am in a business where I do not have to move from my chair very often, the biggest energy expenditure of a typical day is a stroll down to a conference room or to the cafeteria for a meeting or a meal. Yet, at the end of the day I often feel like I have run a half marathon. I am exhausted.</p>
+I am in a business where I do not have to move from my chair very often, the biggest energy expenditure of a typical day is a stroll down to a conference room or to the cafeteria for a meeting or a meal. Yet, at the end of the day I often feel like I have run a half marathon. I am exhausted.
+<!--more-->
 
 <p>When not at work, I usually find myself hiding under a rock, engaging in activities like painting, running, gardening, cooking, cleaning most of them have very low people interaction requirements. My friends and relatives complain, we never hear from you!!</p>
 

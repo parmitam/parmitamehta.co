@@ -4,7 +4,7 @@ layout: 'post'
 tags: ['work','rant']
 date: 2005-7-25
 ---
-
+<!--more-->
 Hey!
 Hey yourself, how have you been!
 Good, which floor?

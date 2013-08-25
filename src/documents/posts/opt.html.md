@@ -6,8 +6,11 @@ date: 2007-5-16
 ---
 
 
-I am a single mom, who works fulltime to pay for her child;s private school education and the suburban house mortgage. I have been working my entire adult life, having been brought up with the notion "women in are in no way inferior to men, as far as intellect is concerned",it was a brutal blow when I was told at the highly coveted job at campus recruiting, even though you are the most qualified for this job we cannot hire you because you are a woman.
-That was the beginning. Since, I have seen a lot of subtle and not so subtle ways in which I have had to work hard in a market place that is almost entirely comprised of men. It has been harder since I had a child. I have known days when I felt like I was living surrounded by Neanderthals, what happened to the so called post-feministic era? And I have often wondered, enviously I might add, about those lucky women who "opted out" to be moms.
+I am a single mom, who works fulltime to pay for her child's private school education and the suburban house mortgage. I have been working my entire adult life, having been brought up with the notion "women in are in no way inferior to men, as far as intellect is concerned",it was a brutal blow when I was told at the highly coveted job at campus recruiting, even though you are the most qualified for this job we cannot hire you because you are a woman.
+That was the beginning. 
+
+<!--more-->
+Since, I have seen a lot of subtle and not so subtle ways in which I have had to work hard in a market place that is almost entirely comprised of men. It has been harder since I had a child. I have known days when I felt like I was living surrounded by Neanderthals, what happened to the so called post-feministic era? And I have often wondered, enviously I might add, about those lucky women who "opted out" to be moms.
 
 And apparently I am not the only one who wonders.
 http://www.cjr.org/issues/2007/2/Graff.asp

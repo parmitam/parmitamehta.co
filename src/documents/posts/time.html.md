@@ -1,10 +1,14 @@
 ---
-9-27-2005
+title: 'Time'
+layout: 'post'
+tags: ['work','rant']
+date: 2005-9-27
 ---
 
-Time
-A little over eight years ago, I started working for a software firm. It was the pre-dot-com era and I was glad to be finally doing what I loved doing anyway and getting paid for it. I loved my job. Thru the ups and downs of my life this one thing has been constant. Almost. 
 
+
+A little over eight years ago, I started working for a software firm. It was the pre-dot-com era and I was glad to be finally doing what I loved doing anyway and getting paid for it. I loved my job. Thru the ups and downs of my life this one thing has been constant. Almost. 
+<!--more-->
 In the last couple years I have seen the stirrings of the seven year itch. This is not the job I loved, everywhere I look I see mediocrity and politics... coming into work is not a rush anymore and I do not long for my vacation to end so that I can go back to work.
 What happened to it? Did I just get bored? Is it mid-life crisis? Or did the world at work really change? 
 

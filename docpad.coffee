@@ -14,6 +14,7 @@ docpadConfig = {
 
 	templateData:
 		moment: require('moment')
+		marked: require 'docpad-plugin-marked/node_modules/marked'
 
 		# Specify some site properties
 		site:
