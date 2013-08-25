@@ -1,24 +1,8 @@
-# The Kitchensink Skeleton, for [DocPad](http://docpad.org)
+# My website, modified from the Kitchensink Skeleton, for [DocPad](http://docpad.org)
 
-A DocPad Skeleton useful for showcasing different features and functionality of DocPad. Implemented using [Twitter Bootstrap](http://twitter.github.com/bootstrap/) .
+Implemented using [Twitter Bootstrap](http://twitter.github.com/bootstrap/) .
 
 
-## Getting Started
-
-1. [Install DocPad](http://docpad.org)
-
-1. Clone the project and run the server
-
-	``` bash
-	git clone git://github.com/docpad/kitchensink.docpad.git
-	cd kitchensink.docpad
-	npm install -f
-	docpad run
-	```
-
-1. [Open http://localhost:9778/](http://localhost:9778/)
-
-1. Start hacking away by modifying the `src` directory
 
 
 ## License
@@ -29,11 +13,5 @@ If you are wanting to open-source your website, we suggest using the [Creative C
 
 	Unless stated otherwise, all content is licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/) and code licensed under the [MIT License](http://creativecommons.org/licenses/MIT/), © [Your Name](http://your.website)
 
-If you are wanting to close-source your website, we'd suggest using the following:
 
-	Copyright Name (website) <email>
-	All rights reserved
-
-Other included things such as themes and libraries are likely already licensed by their own invidual licenses, so be sure to respect their licenses too.
-
-Thanks, the DocPad team loves you.
+Thanks, 
