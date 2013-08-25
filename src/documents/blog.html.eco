@@ -8,12 +8,26 @@ title: 'blog'
     <h1 id="blog">Blog Posts</h2>
     <ul>
 	<% for document in @getCollection('posts').toJSON(): %>
-		<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'	if @document.url is document.url %>">
-			<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
+		<li    typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'	if @document.url is document.url %>">
+			<a class='postlink' href="<%= document.url %>" property="dc:title"><%= document.title %></a> <%= document.date %>
 		</li>
 	<% end %>
    </ul>
   </div>
+</div>
+<div class="sixteen columns posts">
+<h3> OLDER</h3>
+<ul class="postArchive">
+<% for document in @getCollection('posts').toJSON(): %>
+		<li    typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'	if @document.url is document.url %>">
+                       
+                  
+			<a href="<%= document.url %>" property="dc:title"><%= document.title %></a> <%= document.date %>
+		</li>
+	<% end %>
+
+</ul>
+
 </div>
 
 
