@@ -37,7 +37,7 @@
   <div class="two-thirds column omega">
     <nav class="main_nav">
       <div class="menuitem alpha">
-      <div class="menuitem"><a href="/blog.html">Blog</a></div>
+      <div class="menuitem"><a href="/index.html">Blog</a></div>
       <div class="seperator"></div>
       <div class="menuitem omega"><a href="/about.html">About</a></div>
      </nav>
@@ -48,16 +48,15 @@
 				
 
 	<div class="container">
-		<section id="content" class="content">
+		<section id="content" class="content">			
 			<%- @content %>
 		</section>
 		<footer>
-			<p>&copy; Parmita Mehta, 2013</p>
-			<p style="float:right;">
-				This website was last updated at <%= @site.date.toISOString() %>
-			</p>
-		</footer>
 		
+ 		</footer>
+		
+		
+     	
 	</div><!-- /container -->
 
 	<!-- Scripts -->

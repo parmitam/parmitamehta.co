@@ -9,7 +9,7 @@ body {
         font-weight: 100;
 	    font-size: 1.00em;
 	    line-height: 1.45em;
-		color: #444;
+		color: #000080;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
  }
@@ -19,7 +19,7 @@ body {
 /* #Typography
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
-		color: #181818;
+		color: #191970;
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 100;
         text-transform: uppercase;
@@ -61,18 +61,18 @@ body {
 
 	p { margin: 0 0 15px 0; }
 	p img { margin: 0; }
-	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
+	p.lead { font-size: 21px; line-height: 27px; color: #191970;  }
 
 	em { font-style: italic; }
-	strong { font-weight: bold; color: #333; }
+	strong { font-weight: bold; color: #191970; }
 	small { font-size: 80%; }
 
 /*	Blockquotes  */
-	blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; font-style: italic; margin-top: 0px !important}
+	blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #191970; font-style: italic; margin-top: 0px !important}
 	blockquote { margin: 0 0 20px; padding: 9px 20px 0 19px; border-left: 0px; }
-	blockquote cite { display: block; font-size: 12px; color: #555; }
+	blockquote cite { display: block; font-size: 12px; color: #191970; }
 	blockquote cite:before { content: "\2014 \0020"; }
-	blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #555; }
+	blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #191970; }
 
 	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }
 
@@ -80,9 +80,9 @@ body {
 
 /* #Links
 ================================================== */
-	a, a:visited { color: #333; text-decoration: none; outline: 0; }
-	a:hover, a:focus { color: #CE8B10; }
-	p a, p a:visited { line-height: inherit;background-color:#F0F1F4; }
+	a, a:visited { color: #000050; text-decoration: none; outline: 0; }
+	a:hover, a:focus { color: #0000cd; }
+	p a, p a:visited { line-height: inherit;background-color:##F0F1F4; }
 
 
 #header {
@@ -96,11 +96,11 @@ body {
     margin-bottom: 6px;
     line-height: 24px;
     text-transform: uppercase;
-    color: #999;
+    color: #0000cd;
 }
 
 #logo{
-    color: #181818;
+    color: #0000cd;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-size: 18px;
@@ -142,7 +142,7 @@ nav .menuitem {
     }
 
     nav .menuitem:hover a{
-        color:#CE8B10;
+        color:#0000cd;
     }
 nav .seperator {
     width: 15px;
@@ -171,7 +171,7 @@ nav .seperator {
     float: right;
     text-transform: uppercase;
     font-size: 14px;
-    color: #999;
+    color: #000080;
 }
 
 /**************************************************************************************/
@@ -480,7 +480,7 @@ article ul li {
 .recent_articles ul li a:hover {
         border-top: 1px solid black;
         border-bottom: 1px solid black;
-        color: #CE8B10;
+        color: #0000cd;
     }
 
 #second_element{
@@ -542,7 +542,7 @@ article ul li {
     text-decoration: none;
 }
     .featured_article a:hover {
-        color: #CE8B10;
+        color: #0000cd;
     }
 .featured_article li a, .featured_article li a:hover{
     border-top: none;

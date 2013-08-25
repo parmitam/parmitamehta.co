@@ -5,16 +5,19 @@ title: 'blog'
 
 <div class="container">
   <div class="sixteen columns posts">
-    <h1 id="blog">Blog Posts</h1>
-   
-
+    
 	<% for document in @getCollection('posts').toJSON().slice(0,2): %>
 
-	  <h2><%=document.title%></h2>
+	  <h2><a href=<%=document.url %> ><%=document.title%></a></h2>
             <div class="postdate"><%= @moment.utc(document.date).format('DD MMMM, YYYY') %>
             </div>
-              <%= @marked(document.content).split('<!--more-->',1) %>
-		<a href=<%=document.url%> >continue...</a>
+             <p>
+
+             <%= @marked(document.content).split('<!--more-->',1) %>
+	     </p>
+             <p>	
+             <a href=<%=document.url%> >continue...</a>
+             </p>
 	<% end %>
 
   </div>
