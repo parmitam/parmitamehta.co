@@ -7,22 +7,27 @@ title: 'blog'
   <div class="sixteen columns posts">
     <h1 id="blog">Blog Posts</h2>
     <ul>
-	<% for document in @getCollection('posts').toJSON(): %>
+	<% for document in @getCollection('posts').query({limit: 2})toJSON(): %>
 		<li    typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'	if @document.url is document.url %>">
-			<a class='postlink' href="<%= document.url %>" property="dc:title"><%= document.title %></a> <%= document.date %>
+			<a class='postlink' href="<%= document.url %>" property="dc:title"><%= document.title %></a> 
+<div class="postdate"><%= @moment.utc(@document.date).format('DD MMMM, YYYY') %></div>
 		</li>
 	<% end %>
    </ul>
   </div>
 </div>
+
+
+
 <div class="sixteen columns posts">
 <h3> OLDER</h3>
 <ul class="postArchive">
 <% for document in @getCollection('posts').toJSON(): %>
 		<li    typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'	if @document.url is document.url %>">
-                       
+                       <span><div class="postdate"><%= @moment.utc(@document.date).format('DD MMMM, YYYY') %></div></span>
                   
-			<a href="<%= document.url %>" property="dc:title"><%= document.title %></a> <%= document.date %>
+			<a href="<%= document.url %>" property="dc:title"><%= document.title %></a> 
+
 		</li>
 	<% end %>
 

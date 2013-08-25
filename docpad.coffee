@@ -1,5 +1,10 @@
 # The DocPad Configuration File
 # It is simply a CoffeeScript Object which is parsed by CSON
+
+# Import
+moment = require('moment')
+post_date_regex = new RegExp("([0-9]+-)*")
+
 docpadConfig = {
 
 	# =================================
@@ -8,6 +13,7 @@ docpadConfig = {
 	# To access one of these within our templates, refer to the FAQ: https://github.com/bevry/docpad/wiki/FAQ
 
 	templateData:
+		moment: require('moment')
 
 		# Specify some site properties
 		site:
