@@ -46,7 +46,7 @@ layout: 'default'
     </p>
   </div>
 </footer>
- <%- @partial('comment.html.eco') %>
+
 <div id='author'>
   <a href="http://twitter.com/parmita_m", id="author-image">
   <img  src="http://www.gravatar.com/avatar/5fe0f47a931d01c8aa6c1c7135fb6b94.png", height="80", width="80">
@@ -54,9 +54,9 @@ layout: 'default'
   <div id='author-bio'>
   <h5>Written by <a href="http://twitter.com/parmita_m"> Parmita Mehta</a></h5>
     <p>
-    Parmita Mehta is a Woman in Tech, Mother, Painter and an Immigrant.
+    Parmita Mehta is a Woman in Tech, Mother, Painter and first generation Immigrant.
     </p>  
    </div>
 </div>
 
- 
+  <%- @partial('comment.html.eco') %>
