@@ -3,6 +3,7 @@ title: 'Work is tiring'
 layout: 'post'
 tags: ['work','rant']
 date: 2007-2-23
+comments: true
 ---
 
 
