@@ -13,6 +13,7 @@ layout: default
 			<a href="<%= document.url %>" property="dc:title"><%= document.title %></a> 
 
 		</li>
+<% end %>
 
 </ul>
 

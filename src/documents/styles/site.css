@@ -6,9 +6,9 @@ html {
 body {
 		background: #fff;
 		font-family: 'Open Sans', sans-serif;
-        font-weight: 100;
-	    font-size: 1.00em;
-	    line-height: 1.45em;
+              font-weight: 100;
+	      font-size: 1.00em;
+	      line-height: 1.45em;
 		color: #000080;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -19,12 +19,15 @@ body {
 /* #Typography
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
-		color: #191970;
+		color: #810E0E;
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 100;
         text-transform: uppercase;
     }
-	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { 
+	color: #810E0E;
+	font-weight: inherit; 
+    }
 	h1 { 
         font-size: 26px; 
         line-height: 30px; 
@@ -82,7 +85,7 @@ body {
 ================================================== */
 	a, a:visited { color: #000050; text-decoration: none; outline: 0; }
 	a:hover, a:focus { color: #0000cd; }
-	p a, p a:visited { line-height: inherit;background-color:##F0F1F4; }
+	p a, p a:visited { line-height: inherit;background-color:#F0F1F4; }
 
 
 #header {
@@ -156,6 +159,25 @@ nav .seperator {
     display: block !important;
 }
 
+
+/**************************************************************************************/
+/*************************** Tag cloud *******************************************/
+/**************************************************************************************/
+
+#cloud { margin:10;}
+#cloud li {display: inline;}
+#cloud { padding: 8px; line-height: 3em; text-align: center; }
+ #cloud a { padding: 0px; }
+#cloud a.tag1 { font-size: 1.0em; font-weight: 300;  color:#336600}
+ #cloud a.tag2 { font-size: 1.2.8em; font-weight: 300; color:#336600}
+ #cloud a.tag3 { font-size: 1.2em; font-weight: 300; color:#336600}
+ #cloud a.tag4 { font-size: 1.2em; font-weight: 300; color:#336600}
+ #cloud a.tag5 { font-size: 1.5em; font-weight: 400; color:#999900}
+ #cloud a.tag6 { font-size: 1.5em; font-weight: 400; color:#999900}
+ #cloud a.tag7 { font-size: 1.8em; font-weight: 450; color:#999900}
+ #cloud a.tag8 { font-size: 1.8em; font-weight: 450; color:#003300}
+ #cloud a.tag9 { font-size: 2.0em; font-weight: 500; color:#003300}
+ #cloud a.tag10 { font-size: 2.0em; font-weight: 500; color:#003300}
 /**************************************************************************************/
 /*************************** Blog Post List *******************************************/
 /**************************************************************************************/
