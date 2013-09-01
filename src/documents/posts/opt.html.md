@@ -6,7 +6,7 @@ date: 2007-5-16
 ---
 
 
-I am a single mom, who works fulltime to pay for her child's private school education and the suburban house mortgage. I have been working my entire adult life, having been brought up with the notion "women in are in no way inferior to men, as far as intellect is concerned",it was a brutal blow when I was told at the highly coveted job at campus recruiting, even though you are the most qualified for this job we cannot hire you because you are a woman.
+I am a working mom, who works fulltime to pay for her child's private school education and the suburban house mortgage. I have been working my entire adult life, having been brought up with the notion "women in are in no way inferior to men, as far as intellect is concerned",it was a brutal blow when I was told at the highly coveted job at campus recruiting, even though you are the most qualified for this job we cannot hire you because you are a woman.
 That was the beginning. 
 
 <!--more-->

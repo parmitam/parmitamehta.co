@@ -22,6 +22,20 @@ layout: 'default'
 	  <% if @document.comments: %>
             <span class="comment_reactions"> <a href="#{site.url}#{document.url}#disqus_thread">Comments</a></span>
           <% end %>   
+          <span><div class="postdate"><!-- AddThis Button BEGIN -->
+		<div class="addthis_toolbox addthis_default_style ">
+		<a class="addthis_button_preferred_1"></a>
+		<a class="addthis_button_preferred_2"></a>
+		<a class="addthis_button_preferred_3"></a>
+		<a class="addthis_button_preferred_4"></a>
+		<a class="addthis_button_compact"></a>
+		<a class="addthis_counter addthis_bubble_style"></a>
+	        </div>
+	<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51ff03df66e74d37"></script>
+<!-- AddThis Button END -->
+	</div>	
+	</span>
         <%- @content %>
     </article>
   </div>
@@ -53,9 +67,6 @@ layout: 'default'
   </a>
   <div id='author-bio'>
   <h5>Written by <a href="http://twitter.com/parmita_m"> Parmita Mehta</a></h5>
-    <p>
-    Parmita Mehta is a Woman in Tech, Mother, Painter and first generation Immigrant.
-    </p>  
    </div>
 </div>
 
