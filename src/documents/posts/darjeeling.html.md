@@ -1,8 +1,10 @@
 ---
 title: 'Darjeeling'
 layout: 'post'
-tags: ['work','rant']
 date: 2007-10-4
+tags: 
+- Book
+- Review
 ---
 By: Bharti Kirchner
 <!--more-->

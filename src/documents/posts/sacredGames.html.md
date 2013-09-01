@@ -1,8 +1,10 @@
 ---
 title: 'Sacred Games'
 layout: 'post'
-tags: ['book','review']
 date: 2007-10-10
+tags: 
+- Book
+- Review
 ---
 By: Vikram Chandra
 <!--more-->

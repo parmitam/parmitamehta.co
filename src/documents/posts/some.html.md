@@ -1,8 +1,10 @@
 ---
 title: 'Something New?'
 layout: 'post'
-tags: ['work','rant']
 date: 2006-4-26
+tags: 
+- Work
+- Rant
 ---
 
 

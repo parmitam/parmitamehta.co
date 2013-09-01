@@ -1,8 +1,10 @@
 ---
 title: 'Imperial Life in the emerald city'
 layout: 'post'
-tags: ['book','review']
 date: 2007-10-12
+tags: 
+- Book
+- Review
 ---
 By : Rajiv Chandrasekaran
 <!--more-->

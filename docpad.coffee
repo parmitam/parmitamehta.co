@@ -109,6 +109,9 @@ docpadConfig = {
 	# DocPad Plugins
 
 	plugins:
+		tagging:
+			getTagWeight: (count, maxCount) ->
+				return Math.round(count/maxCount *10)
 		highlightjs:
 			aliases:
 				haml: 'xml'

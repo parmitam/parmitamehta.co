@@ -1,8 +1,10 @@
 ---
 title: 'Up,Down and out'
 layout: 'post'
-tags: ['work','rant']
 date: 2005-8-22
+tags: 
+- Work
+- Rant
 ---
 
 In management jargon, you manage up, down and out --

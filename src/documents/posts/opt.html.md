@@ -1,8 +1,10 @@
 ---
 title: 'Opt out?'
 layout: 'post'
-tags: ['work','rant']
 date: 2007-5-16
+tags: 
+- Work
+- Rant
 ---
 
 

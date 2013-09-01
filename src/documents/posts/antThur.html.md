@@ -1,8 +1,10 @@
 ---
 title: 'Another Thursday Morning'
 layout: 'post'
-tags: ['work','rant']
 date: 2005-7-25
+tags: 
+- Work
+- Rant
 ---
 <!--more-->
 

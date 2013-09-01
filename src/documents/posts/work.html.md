@@ -1,7 +1,7 @@
 ---
 title: 'Work is tiring'
 layout: 'post'
-tags: ['work','rant']
+tags: ['Work','Rant']
 date: 2007-2-23
 comments: true
 ---

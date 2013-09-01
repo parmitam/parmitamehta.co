@@ -1,8 +1,11 @@
 ---
 title: 'the Spice Trail'
 layout: 'post'
-tags: ['book','review','cooking']
 date: 2005-12-22
+tags: 
+- Book
+- Review
+- Cooking
 ---
 <!--more-->
 by: Madur Jaffery

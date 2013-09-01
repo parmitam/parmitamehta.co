@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="sixteen columns posts">
+<h3> Pages tagged with '<%= @document.tag %>'</h3>
+
+<ul class="postArchive">
+<% for document in @getCollection('documents').findAll({tags: '$in': @document.tag}).toJSON(): %>
+	
+		<li    typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'	if @document.url is document.url %>">
+                       <span><div class="postdate"><%= @moment.utc(document.date).format('DD MMMM, YYYY') %></div></span>
+                  
+			<a href="<%= document.url %>" property="dc:title"><%= document.title %></a> 
+
+		</li>
+
+</ul>
+
+

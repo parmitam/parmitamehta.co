@@ -4,7 +4,8 @@ title: 'blog'
 ---
 
 <div class="container">
-  <div class="sixteen columns posts">
+
+  <div class="eight columns">
     
 	<% for document in @getCollection('posts').toJSON().slice(0,2): %>
 
@@ -21,8 +22,18 @@ title: 'blog'
 	<% end %>
 
   </div>
-</div>
+
  
+<div class="five columns">
+	<ul id="cloud">
+			<% for key, item of @getTagCloud(): %>
+				<li>
+					<a href="<%= item.url %>" data-tag-count="<%= item.count %>" class=tag<%= item.weight %>><%= item.tag %> </a>
+				</li>
+			<% end %>
+		</ul>
+</div>
+</div>
 
 
 <div class="sixteen columns posts">

@@ -1,9 +1,13 @@
 ---
 title: 'self-deception'
 layout: 'post'
-tags: ['work','rant', 'leadership']
 date: 2005-8-18
+tags:
+- Work
+- Rant
+- Leadership
 ---
+
 You can't focus on the results because you are focused on yourself.
 My self-justifying image about being learned is the very thing that keeps me from learning.
 

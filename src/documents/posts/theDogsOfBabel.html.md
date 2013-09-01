@@ -1,8 +1,10 @@
 ---
 title: 'The Dogs of Babel'
 layout: 'post'
-tags: ['book','review']
 date: 2007-10-27
+tags: 
+- Book
+- Review
 ---
 By: Carolyn Parkhurst
 <!--more-->

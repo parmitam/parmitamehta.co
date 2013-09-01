@@ -1,8 +1,10 @@
 ---
 title: 'Time'
 layout: 'post'
-tags: ['work','rant']
 date: 2005-9-27
+tags: 
+- Work
+- Rant
 ---
 
 
