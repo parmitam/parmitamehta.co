@@ -3,8 +3,7 @@ title: 'Never Let Me Go'
 layout: 'post'
 date: 2007-10-30
 tags: 
-- Book
-- Review
+- Book Review
 ---
 By: Kazuo Ishiguro
 <!--more-->

@@ -3,8 +3,7 @@ title: 'Imperial Life in the emerald city'
 layout: 'post'
 date: 2007-10-12
 tags: 
-- Book
-- Review
+- Book Review
 ---
 By : Rajiv Chandrasekaran
 <!--more-->

@@ -4,15 +4,17 @@ html {
     overflow-y: scroll;
 }
 body {
-		background: #fff;
-		font-family: 'Open Sans', sans-serif;
-              font-weight: 100;
-	      font-size: 1.00em;
-	      line-height: 1.45em;
-		color: #000080;
-		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
-		-webkit-text-size-adjust: 100%;
+
+	background: #fff;
+	font-family: 'Open Sans', sans-serif;
+        font-weight: 100;
+        font-size: 1.00em;
+        line-height: 1.45em;
+	color: #000080;
+	-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+	-webkit-text-size-adjust: 100%;
  }
+
 
 
 
@@ -79,6 +81,16 @@ body {
 
 	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }
 
+	.footer {
+	color: #cccccc;
+	text-align: center;
+	}
+	.footer p {
+	font-size:10px;
+	}
+	.footer a{
+	color: #ccccff;
+	}
 
 
 /* #Links
@@ -86,6 +98,7 @@ body {
 	a, a:visited { color: #000050; text-decoration: none; outline: 0; }
 	a:hover, a:focus { color: #0000cd; }
 	p a, p a:visited { line-height: inherit;background-color:#F0F1F4; }
+
 
 
 #header {
@@ -104,7 +117,7 @@ body {
 
 #logo{
     color: #0000cd;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Segoe UI', Tahoma, Arial, Helvetica, sans-serif;
     font-weight: 300;
     font-size: 18px;
     text-transform: uppercase;
@@ -124,7 +137,7 @@ body {
     float: right;
 }
 
-    /*font-family: 'Segoe UI', Tahoma, Arial, Helvetica, sans-serif;
+    /*font-family: 
     text-transform: uppercase;
     letter-spacing: .7px;*/
 
@@ -165,19 +178,19 @@ nav .seperator {
 /**************************************************************************************/
 
 #cloud { margin:10;}
-#cloud li {display: inline;}
-#cloud { padding: 8px; line-height: 3em; text-align: center; }
+/*#cloud li {display: inline;}*/
+#cloud { padding: 8px; line-height: 3em; text-align: right; }
  #cloud a { padding: 0px; }
-#cloud a.tag1 { font-size: 1.0em; font-weight: 300;  color:#336600}
- #cloud a.tag2 { font-size: 1.2.8em; font-weight: 300; color:#336600}
- #cloud a.tag3 { font-size: 1.2em; font-weight: 300; color:#336600}
- #cloud a.tag4 { font-size: 1.2em; font-weight: 300; color:#336600}
+#cloud a.tag1 { font-size: 1.5em; font-weight: 400;  color:#336600}
+ #cloud a.tag2 { font-size: 1.5em; font-weight: 400; color:#999900}
+ #cloud a.tag3 { font-size: 1.5em; font-weight: 400; color:#336600}
+ #cloud a.tag4 { font-size: 1.5em; font-weight: 400; color:#003300}
  #cloud a.tag5 { font-size: 1.5em; font-weight: 400; color:#999900}
  #cloud a.tag6 { font-size: 1.5em; font-weight: 400; color:#999900}
- #cloud a.tag7 { font-size: 1.8em; font-weight: 450; color:#999900}
- #cloud a.tag8 { font-size: 1.8em; font-weight: 450; color:#003300}
- #cloud a.tag9 { font-size: 2.0em; font-weight: 500; color:#003300}
- #cloud a.tag10 { font-size: 2.0em; font-weight: 500; color:#003300}
+ #cloud a.tag7 { font-size: 1.5em; font-weight: 400; color:#336600}
+ #cloud a.tag8 { font-size: 1.5em; font-weight: 400; color:#003300}
+ #cloud a.tag9 { font-size: 1.5em; font-weight: 400; color:#999900}
+ #cloud a.tag10 { font-size: 1.5em; font-weight: 400; color:#003300}
 /**************************************************************************************/
 /*************************** Blog Post List *******************************************/
 /**************************************************************************************/
@@ -196,6 +209,7 @@ nav .seperator {
     color: #000080;
 }
 
+
 /**************************************************************************************/
 /*************************** Blog Posts ***********************************************/
 /**************************************************************************************/
@@ -205,7 +219,7 @@ nav .seperator {
     margin: 5px;
 }
 article p {
-    font-size: 1.25em;
+    font-size: 1.0em;
     line-height: 175%;
     margin-top: 25px;
 }
@@ -486,20 +500,20 @@ article ul li {
 /*************************** Home Page        *****************************************/
 /**************************************************************************************/
 
-.recent_articles ul li {
+.tag_articles ul li {
     margin-bottom: 5px;
     line-height: 20px;
     list-style-position: inside;
     width: 100%;
 }
-.recent_articles ul li a {
+.tag_articles ul li a {
         display: block;
         text-decoration: none;
         font-size: 13px;
         border-top: 1px solid transparent;
         border-bottom: 1px solid transparent;
     }
-.recent_articles ul li a:hover {
+.tag_articles ul li a:hover {
         border-top: 1px solid black;
         border-bottom: 1px solid black;
         color: #0000cd;

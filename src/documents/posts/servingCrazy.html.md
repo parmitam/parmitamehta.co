@@ -3,8 +3,7 @@ title: 'Serving Crazy with curry'
 layout: 'post'
 date: 2007-10-25
 tags: 
-- Book
-- Review
+- Book Review
 ---
 By: Amulya Malladi
 <!--more-->

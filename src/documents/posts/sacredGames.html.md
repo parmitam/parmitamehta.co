@@ -3,8 +3,7 @@ title: 'Sacred Games'
 layout: 'post'
 date: 2007-10-10
 tags: 
-- Book
-- Review
+- Book Review
 ---
 By: Vikram Chandra
 <!--more-->

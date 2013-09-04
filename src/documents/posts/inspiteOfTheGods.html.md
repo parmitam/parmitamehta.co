@@ -2,7 +2,7 @@
 title: 'Inspite of The gods: the strange rise of Modern India'
 layout: 'post'
 date: 2007-10-23
-tags: ['Book','Review']
+tags: ['Book Review']
 ---
 By: Edward Luce
 <!--more-->

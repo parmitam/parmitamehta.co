@@ -3,8 +3,7 @@ title: 'Harry Potter and the half blood prince'
 layout: 'post'
 date: 2005-9-6
 tags: 
-- Book
-- Review
+- Book Review
 ---
 By : J.K.Rowling
 <!--more-->

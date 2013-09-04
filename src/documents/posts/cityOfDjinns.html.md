@@ -3,8 +3,7 @@ title: 'City of Djinns: A Year in Delhi'
 layout: 'post'
 date: 2007-12-12
 tags: 
-- Book
-- Review
+- Book Review
 ---
 By: William Dalrymple
 <!--more-->

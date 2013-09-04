@@ -2,7 +2,7 @@
 title: 'The Wind-up Bird Chronicles'
 layout: 'post'
 date: 2007-10-30
-tags: ['Book','Review']
+tags: ['Book Review']
 ---
 
 <!--more-->

@@ -3,8 +3,7 @@ title: 'the Spice Trail'
 layout: 'post'
 date: 2005-12-22
 tags: 
-- Book
-- Review
+- Book Review
 - Cooking
 ---
 <!--more-->

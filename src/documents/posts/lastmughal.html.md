@@ -3,8 +3,7 @@ title: 'the Last Mughal the fall of a Dynasty, 1857'
 layout: 'post'
 date: 2007-10-3
 tags: 
-- Book
-- Review
+- Book Review
 ---
 By : William Dalrymple
 <!--more-->

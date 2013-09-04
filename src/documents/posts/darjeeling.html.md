@@ -3,8 +3,7 @@ title: 'Darjeeling'
 layout: 'post'
 date: 2007-10-4
 tags: 
-- Book
-- Review
+- Book Review
 ---
 By: Bharti Kirchner
 <!--more-->

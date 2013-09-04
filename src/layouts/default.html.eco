@@ -15,6 +15,7 @@
 	<!-- Icons -->
 	<link rel="shortcut icon" href="images/blank.gif">
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 	<link rel="stylesheet", href="http://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,600",type='text/css'>
@@ -62,6 +63,14 @@
   ga('send', 'pageview');
 
 </script>
+<div class="footer">
+          <p>This work is licensed under
+            the <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC
+              By-SA 3.0
+            </a>, without all the cruft that would otherwise be
+            put at the bottom of the page.</p>
+</div>
+
 </body>
 </html>
 
