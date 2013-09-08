@@ -24,9 +24,10 @@ It can't be that hard to make money off coffee, the trail blazed by starbucks ha
 
 Just when I was being lulled by a vision of cozy life with no hurry mornings, where I could take the time to chat and make coffee, here it comes, the reality check. With numbers.<em> Budgeting $15 for the payroll for every hour your charming cafe is open (let's say 10 hours a day) relieves you of $4,500 a month. That gives you another $4,500 a month for rent and $6,300 to stock up on product. It also means that to come up with the total needed $18K of revenue per month, you will need to sell that product at an average of a 300 percent markup. </em>
 <p>
-I don't have a marriage to fear for, but apparently, it can have detrimental effects on one...<em>Two highly educated professionals with artistic aspirations have just put themselves or, as we saw it, each other on $8-per-hour jobs slinging coffee. After four more months, we grew suspicious of each other's motives, obsessively kept track of each other's contributions to the cause ("You worked three days last week!"), and generally waltzed on the edge of divorce.</em>
+I don't have a marriage to fear for, but apparently, it can have detrimental effects on one...
+<p>Two highly educated professionals with artistic aspirations have just put themselves or, as we saw it, each other on $8-per-hour jobs slinging coffee. After four more months, we grew suspicious of each other's motives, obsessively kept track of each other's contributions to the cause ("You worked three days last week!"), and generally waltzed on the edge of divorce.
 <p>
-The coup de grâce was the quote from the bad boy chef, Anthony Bourdain <em>"The most dangerous species of owner ... is the one who gets into the business for love."<em>
+The coup de grace was the quote from the bad boy chef, Anthony Bourdain <strong>"The most dangerous species of owner ... is the one who gets into the business for love."</strong>
 <p>
 That seals it, the only reason I would go into this business, would be for the love of it ... essentially making it a bad proposition. Where did the entrepreneurial skills of my immigrant Grandpa go, I wonder, they haven't been handed to me.
 <p>

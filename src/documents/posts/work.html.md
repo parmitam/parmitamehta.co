@@ -21,7 +21,7 @@ I am in a business where I do not have to move from my chair very often, the big
 <blockquote>Sustained high achievements demands physical and emotional strength as well as a sharp intellect. To bring mind, body and spirit to peak condition, executives need to learn what world class athletes already know: recovering energy is as important as expending it.</blockquote>
 
 <em>The High Performance Pyramid</em>
-<br>Peak performance in business has often been presented as a matter of sheer brainpower but we view performance as a pyramid. Physical well-being is its foundation. Above that rests the emotional health, then mental acuity and at the top, a sense of purpose. The ideal performance state- <em>peak performance under pressure<em> is achieved when all levels are working together.
+<br>Peak performance in business has often been presented as a matter of sheer brainpower but we view performance as a pyramid. Physical well-being is its foundation. Above that rests the emotional health, then mental acuity and at the top, a sense of purpose. The ideal performance state- <em>peak performance under pressure</em> is achieved when all levels are working together.
 
 <p>Rituals that promote oscillation- the recovery of energy- link the levels of the pyramid.</p>
 
