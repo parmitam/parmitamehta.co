@@ -15,13 +15,13 @@ That was the beginning.
 
 <!--more-->
 
-<br>
+<p>
 Since, I have seen a lot of subtle and not so subtle ways in which I have had to work hard in a market place that is almost entirely comprised of men. It has been harder since I had a child. I have known days when I felt like I was living surrounded by Neanderthals, what happened to the so called post-feministic era? And I have often wondered, enviously I might add, about those lucky women who "opted out" to be moms.
-<br>
+<p>
 And apparently I am not the only one who wonders.
 <br>
 <a href="http://www.cjr.org/issues/2007/2/Graff.asp">http://www.cjr.org/issues/2007/2/Graff.asp</a>
-<br>
+<p>
 Do they really opt out? Or are they getting a little help from the system?
 <blockquote>
 Still, if they were pushed out, why would smart, professional women
@@ -40,5 +40,5 @@ workers, deprive everyone of a reasonable family life.
 A recent snarky book about French women I read mentioned the oh so unbelievable work ethic of the French; with six weeks of paid vacation and so forth, but what we often forget is how hard and how much we have to work here in the good ol' land of opportunity with the most family-hostile public policy in the Western world.
 Out of 168 countries surveyed by Jody Heymann, who taught at both the Harvard School of Public Health and McGill University, the U.S. is one of only five without mandatory paid maternity leave along with Lesotho, Liberia, Papua New Guinea, and Swaziland.
 Good company I would say!
-<br>
+<p>
 So, while I write my treatise on "Zen and the art of work life balance" which helps me work without tuning out or burning out, and not being trampled penniless by the charging herds of corporate America, I take hope in knowing I am not alone pondering the way out of this madness.

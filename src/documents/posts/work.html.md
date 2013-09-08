@@ -16,20 +16,19 @@ I am in a business where I do not have to move from my chair very often, the big
 
 <p>This week has been especially harrowing. I was out on a business trip for the first three days of the week, the flying and customer visit and the sense of every free moment spent talking about work surrounded by my colleagues, had me ready to collapse by beginning of Friday, when I run into this article.</p>
 
-<br><b>"The Making of a Corporate Athlete"</b> Jim Loehr and Tony Schwartz <em>( HBR, Jan 2001)</em>
+<br><strong>"The Making of a Corporate Athlete"</strong> Jim Loehr and Tony Schwartz <em>( HBR, Jan 2001)</em>
 
 <blockquote>Sustained high achievements demands physical and emotional strength as well as a sharp intellect. To bring mind, body and spirit to peak condition, executives need to learn what world class athletes already know: recovering energy is as important as expending it.</blockquote>
 
-<i>The High Performance Pyramid<i>
-
-<p>Peak performance in business has often been presented as a matter of sheer brainpower but we view performance as a pyramid. Physical well-being is its foundation. Above that rests the emotional health, then mental acuity and at the top, a sense of purpose. The ideal performance state- <i>peak performance under pressure<i> is achieved when all levels are working together.</p>
+<em>The High Performance Pyramid</em>
+<br>Peak performance in business has often been presented as a matter of sheer brainpower but we view performance as a pyramid. Physical well-being is its foundation. Above that rests the emotional health, then mental acuity and at the top, a sense of purpose. The ideal performance state- <em>peak performance under pressure<em> is achieved when all levels are working together.
 
 <p>Rituals that promote oscillation- the recovery of energy- link the levels of the pyramid.</p>
 
 <blockquote>They promote rituals as a way of creating the oscillations that take you between expending and recovering energy.If executives are to perform at high levels over long haul, they have to train in the same systematic multilevel way that world-class athletes do.</blockquote>
 
-<p>The message is clear. I need to concentrate on recovery and built it into my daily routine. Not wait for the weekend, make the cycle shorter and consciously recognize when I am flagging, learn and train to institute cycles of recovery. The simile, awkwardly is weight lifting:</p>
+The message is clear. I need to concentrate on recovery and built it into my daily routine. Not wait for the weekend, make the cycle shorter and consciously recognize when I am flagging, learn and train to institute cycles of recovery. The simile, awkwardly is weight lifting:
 
 <blockquote>it involves stressing the muscle to a point where the fibers literally start to break down. Given an adequate period of recovery the muscle will not only heal, it will grow stronger. Conversely failure to stress the muscle results in weakness and atrophy. In both cases the enemy is not stress, it is linearity- the failure to oscillate between energy expenditure and recovery.</blockquote>
 
-<p>Here's to working in Corporate America, and surviving it !</p>
+Here's to working in Corporate America, and surviving it !

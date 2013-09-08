@@ -178,7 +178,7 @@ nav .seperator {
 /**************************************************************************************/
 
 #cloud { margin:10;}
-/*#cloud li {display: inline;}*/
+#cloud li {display: inline;}
 #cloud { padding: 8px; line-height: 3em; text-align: right; }
  #cloud a { padding: 0px; }
 #cloud a.tag1 { font-size: 1.2em; font-weight: 300;  color:#336600}
