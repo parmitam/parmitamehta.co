@@ -17,7 +17,7 @@ The books do not talk down to kids and she does not present the world in clean c
 <br>
 It has the elements of fantasy and unbridled imagination... I love the way she takes ordinary things and translates them to the wizard land. The fireplace transport, the moving people in the paintings and photographs, the crazy candy, Hogwarts express from platform number 9 3/4. The house elves, the pumpkin Juice, the sorting hat, the subject-- Divination, Potions, Charms, Herbology... I love the way the normal things from school have been extrapolated to this wizard world. Fifteen inches of parchment on werewolves! The curses lumous, accio, Expelliarmus, Petrificus Totalus .. and the names Albus, Remus, Minevera, Severus, Sirius... She sounds like she is having a blast, poking fun at all those adult things like discipline and rules and latin that kids find tedious-- as she teaches the kids who read about the things in life that are truly important- loyalty, friendship, love, trust...
 <br>
-And not to forget, the game, quidditch. 
+And not to forget, the game, Quidditch. 
 <br>
 I have a couple male friends of mine complain about that game...<i> "it is stupid, how can you not have better rules and how can you just end the game if the snitch is caught?"</i> And as I sat there listening to the two grown men crib about why quidditch was a stupid, I started laughing. This was brilliant. This was a game created by a woman, of course it was going to be a fast paced game that she could end as soon as the snitch was caught( while letting potter being the hero cause he could be the seeker:))
 <br>

@@ -181,16 +181,16 @@ nav .seperator {
 /*#cloud li {display: inline;}*/
 #cloud { padding: 8px; line-height: 3em; text-align: right; }
  #cloud a { padding: 0px; }
-#cloud a.tag1 { font-size: 1.5em; font-weight: 400;  color:#336600}
- #cloud a.tag2 { font-size: 1.5em; font-weight: 400; color:#999900}
- #cloud a.tag3 { font-size: 1.5em; font-weight: 400; color:#336600}
- #cloud a.tag4 { font-size: 1.5em; font-weight: 400; color:#003300}
- #cloud a.tag5 { font-size: 1.5em; font-weight: 400; color:#999900}
- #cloud a.tag6 { font-size: 1.5em; font-weight: 400; color:#999900}
- #cloud a.tag7 { font-size: 1.5em; font-weight: 400; color:#336600}
- #cloud a.tag8 { font-size: 1.5em; font-weight: 400; color:#003300}
- #cloud a.tag9 { font-size: 1.5em; font-weight: 400; color:#999900}
- #cloud a.tag10 { font-size: 1.5em; font-weight: 400; color:#003300}
+#cloud a.tag1 { font-size: 1.2em; font-weight: 300;  color:#336600}
+ #cloud a.tag2 { font-size: 1.2em; font-weight: 300; color:#999900}
+ #cloud a.tag3 { font-size: 1.4em; font-weight: 320; color:#336600}
+ #cloud a.tag4 { font-size: 1.4em; font-weight: 320; color:#003300}
+ #cloud a.tag5 { font-size: 1.6em; font-weight: 340; color:#999900}
+ #cloud a.tag6 { font-size: 1.6em; font-weight: 340; color:#999900}
+ #cloud a.tag7 { font-size: 1.8em; font-weight: 360; color:#336600}
+ #cloud a.tag8 { font-size: 1.8em; font-weight: 360; color:#003300}
+ #cloud a.tag9 { font-size: 2.0em; font-weight: 380; color:#999900}
+ #cloud a.tag10 { font-size: 2.0em; font-weight: 380; color:#003300}
 /**************************************************************************************/
 /*************************** Blog Post List *******************************************/
 /**************************************************************************************/

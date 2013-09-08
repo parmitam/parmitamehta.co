@@ -16,7 +16,7 @@ I am in a business where I do not have to move from my chair very often, the big
 
 <p>This week has been especially harrowing. I was out on a business trip for the first three days of the week, the flying and customer visit and the sense of every free moment spent talking about work surrounded by my colleagues, had me ready to collapse by beginning of Friday, when I run into this article.</p>
 
-<p>"The Making of a Corporate Athlete" Jim Loehr and Tony Schwartz ( HBR, Jan 2001)
+<br><b>"The Making of a Corporate Athlete"</b> Jim Loehr and Tony Schwartz <em>( HBR, Jan 2001)</em>
 
 <blockquote>Sustained high achievements demands physical and emotional strength as well as a sharp intellect. To bring mind, body and spirit to peak condition, executives need to learn what world class athletes already know: recovering energy is as important as expending it.</blockquote>
 
@@ -26,7 +26,7 @@ I am in a business where I do not have to move from my chair very often, the big
 
 <p>Rituals that promote oscillation- the recovery of energy- link the levels of the pyramid.</p>
 
-<p>They promote rituals as a way of creating the oscillations that take you between expending and recovering energy.If executives are to perform at high levels over long haul, they have to train in the same systematic multilevel way that world-class athletes do.</p>
+<blockquote>They promote rituals as a way of creating the oscillations that take you between expending and recovering energy.If executives are to perform at high levels over long haul, they have to train in the same systematic multilevel way that world-class athletes do.</blockquote>
 
 <p>The message is clear. I need to concentrate on recovery and built it into my daily routine. Not wait for the weekend, make the cycle shorter and consciously recognize when I am flagging, learn and train to institute cycles of recovery. The simile, awkwardly is weight lifting:</p>
 

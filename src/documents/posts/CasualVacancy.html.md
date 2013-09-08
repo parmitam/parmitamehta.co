@@ -5,7 +5,7 @@ date: 2013-6-1
 tags: ['Book Review']
 ---
 
-By: J.K. Rowling
+<a href="http://www.amazon.com/The-Casual-Vacancy-J-Rowling/dp/0316228583/ref=sr_1_1?ie=UTF8&qid=1378658212&sr=8-1&keywords=casual+vacancy">By: J.K. Rowling</a>
 
 <p>
 JK Rowling is a difficult writer to read. It sounded like blasphemy, when the thought first formed in my head. The hours spend with Harry Potter, the first of which were read by my daughter when she was 7, were in direct conflict with that errant thought.  Casual Vacancy is JKR’s first  attempt at adult fiction.  It follows the events in a little town in England, after a town council member’s seat comes open after his sudden death.

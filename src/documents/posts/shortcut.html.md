@@ -5,6 +5,7 @@ date: 2005-8-16
 tags: 
 - Rant
 - Work
+- Leadership
 ---
 <
 In this 'jet age' where taking two steps at a time to get to the next level is the measure of success, this article seems like my mom's stern voice telling me "there are no shortcuts to success". Jokes apart, I do believe that there is something to it.
